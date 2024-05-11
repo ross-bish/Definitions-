@@ -1,6 +1,6 @@
 # Computer Science - Definitions 📚
 
-Sure, here are the definitions and explanations in alphabetical order:
+Here are the definitions and explanations in alphabetical order:
 
 1. **Abstraction**: Breaking down a complex problem into multiple smaller problems which are easier to solve. Often involves ignoring details which are irrelevant to simplify a complex problem.
 
