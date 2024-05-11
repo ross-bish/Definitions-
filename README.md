@@ -1,6 +1,9 @@
 # Definitions & Acronyms 📚
 6th Year LCCS
 
+Contents:
+1. LCCS Definitions
+2. LCCS Acronyms
 
 
 | Abbreviation | Meaning                                       |
